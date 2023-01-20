@@ -933,6 +933,25 @@
 			]
 		},
 		{
+			"turret": "Рикошет М0_ricochet",
+			"animation": [
+				{
+					"attenuationBegin": 100,
+					"attenuationEnd": 400,
+					"color": 16754944,
+					"intensity": 0.5,
+					"time": 0
+				},
+				{
+					"attenuationBegin": 50,
+					"attenuationEnd": 200,
+					"color": 16754944,
+					"intensity": 0,
+					"time": 600
+				}
+			]
+		},
+		{
 			"turret": "Рикошет М0_muzzle",
 			"animation": [
 				{
@@ -977,6 +996,25 @@
 					"attenuationBegin": 300,
 					"attenuationEnd": 600,
 					"color": 16754944,
+					"intensity": 0,
+					"time": 600
+				}
+			]
+		},
+		{
+			"turret": "Рикошет М1_ricochet",
+			"animation": [
+				{
+					"attenuationBegin": 100,
+					"attenuationEnd": 400,
+					"color": 16741656,
+					"intensity": 0.5,
+					"time": 0
+				},
+				{
+					"attenuationBegin": 50,
+					"attenuationEnd": 200,
+					"color": 16741656,
 					"intensity": 0,
 					"time": 600
 				}
@@ -1033,6 +1071,25 @@
 			]
 		},
 		{
+			"turret": "Рикошет М2_ricochet",
+			"animation": [
+				{
+					"attenuationBegin": 100,
+					"attenuationEnd": 400,
+					"color": 16750336,
+					"intensity": 0.5,
+					"time": 0
+				},
+				{
+					"attenuationBegin": 50,
+					"attenuationEnd": 200,
+					"color": 16750336,
+					"intensity": 0,
+					"time": 600
+				}
+			]
+		},
+		{
 			"turret": "Рикошет М2_muzzle",
 			"animation": [
 				{
@@ -1077,6 +1134,25 @@
 					"attenuationBegin": 300,
 					"attenuationEnd": 600,
 					"color": 16750336,
+					"intensity": 0,
+					"time": 600
+				}
+			]
+		},
+		{
+			"turret": "Рикошет М3_ricochet",
+			"animation": [
+				{
+					"attenuationBegin": 100,
+					"attenuationEnd": 400,
+					"color": 16741656,
+					"intensity": 0.5,
+					"time": 0
+				},
+				{
+					"attenuationBegin": 50,
+					"attenuationEnd": 200,
+					"color": 16741656,
 					"intensity": 0,
 					"time": 600
 				}
