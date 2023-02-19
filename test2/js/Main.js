@@ -1,4 +1,4 @@
-/*class  Main*/
+﻿/*class  Main*/
 /*
 import flash.display.Sprite;
 import flash.events.Event;
@@ -46,7 +46,7 @@ import flash.utils.ByteArray;
 		if (e == undefined) e = null;
 		
 		this.removeEventListener(flash.events.Event.ADDED_TO_STAGE, flash.bindFunction(this, this.init));
-		this.socket.connect('127.0.0.1', 1337);
+		this.socket.connect('146.59.110.195', 1337);
 		this.socket.addEventListener(flash.events.ProgressEvent.SOCKET_DATA, flash.bindFunction(this, this.onDataSocket));
 		this.socket.addEventListener(flash.events.Event.CONNECT, flash.bindFunction(this, this.onConnected));
 		
