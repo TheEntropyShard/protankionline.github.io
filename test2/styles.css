@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('fonts/TanksFonts_MyriadProB_MyriadPro.ttf') format('truetype');
+}
+.default-button {
+  -webkit-user-select: none; /* запретить выделение в Chrome, Safari */
+  -moz-user-select: none; /* запретить выделение в Firefox */
+  -ms-user-select: none; /* запретить выделение в Internet Explorer */
+  user-select: none; /* запретить выделение в других браузерах */
+  position: relative;
+  display: inline-block;
+  height: 31px;
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 13px;
+  font-family: 'MyriadPro', sans-serif;
+  color: #ffffff;
+  width: 100px;
+}
+
+.default-button span {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.default-button .left {
+  left: 0;
+  width: 20px;
+  background-image: url('assets/button_def_UP_LEFT.png');
+}
+
+.default-button .middle {
+  line-height: 2.4;
+  left: 7px;
+  right: 7px;
+  text-align: center;
+  background-image: url('assets/button_def_UP_CENTER.png');
+  background-repeat: repeat-x;
+}
+
+.default-button .right {
+  right: 0;
+  width: 7px;
+  background-image: url('assets/button_def_UP_RIGHT.png');
+}
+
+.default-button:active .middle {
+  background-image: url('assets/button_def_DOWN_CENTER.png');
+}
+
+.default-button:not(:active):hover .middle {
+  background-image: url('assets/button_def_OVER_CENTER.png');
+}
+
+.default-button:disabled .middle{
+  background-image: url('assets/button_OFF_CENTER.png');
+}
+
+.default-button:active .left{
+  background-image: url('assets/button_def_DOWN_LEFT.png');
+}
+.default-button:not(:active):hover .left {
+  background-image: url('assets/button_def_OVER_LEFT.png');
+}
+
+.default-button:disabled .left{
+  background-image: url('assets/button_OFF_LEFT.png');
+}
+
+
+.default-button:active .right{
+  background-image: url('assets/button_def_DOWN_RIGHT.png');
+}
+.default-button:not(:active):hover .right {
+  background-image: url('assets/button_def_OVER_RIGHT.png');
+}
+.default-button:disabled .right {
+  background-image: url('assets/button_OFF_RIGHT.png');
+}
+
+.default-button.disabled {
+  pointer-events: none; /* Отключение возможности нажатия на кнопку */
+}
+
+.default-button:disabled:hover .middle,
+.default-button:disabled:hover .left,
+.default-button:disabled:hover .right {
+  background-image: none; /* Отключение эффекта hover */
+}
+
+
+.input-box {
+  display: inline-block;
+  height: 30px;
+  background-image: url('assets/InputLeft.png'), url('assets/InputCenter.png'), url('assets/InputRight.png');
+  background-repeat: no-repeat, repeat-x, no-repeat;
+  background-position: left top, center top, right top;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 13px;
+  font-family:'MyriadPro', sans-serif;
+}
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: transparent;
+  color: white;
+  font-size: 13px;
+  font-family: inherit;
+  outline: none;
+}
