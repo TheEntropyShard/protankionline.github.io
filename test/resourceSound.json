@@ -28,10 +28,6 @@
         {
             "name": "halloween_sound_id",
             "src": "halloween.mp3"
-        },
-        {
-            "name": "new_year_sound_id",
-            "src": "new_year.wav"
         },		
         {
             "name": "bonusTakenSound",
