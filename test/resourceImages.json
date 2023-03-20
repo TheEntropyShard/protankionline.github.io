@@ -1709,7 +1709,11 @@
 			"src": "maps/map_losttemple_preview.jpg"
 		},
 		{
-			"name": "map_madness_preview",
+			"name": "map_madness_dm_preview",
+			"src": "maps/map_madness_preview.jpg"
+		},
+		{
+			"name": "map_madness_ctf_preview",
 			"src": "maps/map_madness_preview.jpg"
 		},
 		{
