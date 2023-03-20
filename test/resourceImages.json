@@ -1366,14 +1366,6 @@
 			"src": "colormaps/irbis/preview.png"
 		},
 		{
-			"name": "irbis2_m0",
-			"src": "colormaps/irbis/image.jpg"
-		},
-		{
-			"name": "irbis2_m0_preview",
-			"src": "colormaps/irbis/preview.png"
-		},
-		{
 			"name": "izumurud_m0",
 			"src": "colormaps/izumurud/image.jpg"
 		},
@@ -1529,22 +1521,6 @@
 			"src": "bonus/boxes/nos/box_nos.jpg?v=2021"
 		},
 		{
-			"name": "map_ny_2021_preview",
-			"src": "maps/map_ny_2021_preview.jpg"
-		},
-		{
-			"name": "map_halloween_preview",
-			"src": "maps/map_halloween_preview.jpg"
-		},
-		{
-			"name": "map_ring_preview",
-			"src": "maps/map_ring_preview.jpg?v=2"
-		},
-		{
-			"name": "map_ring_winter_preview",
-			"src": "maps/map_ring_winter_preview.jpg"
-		},
-		{
 			"name": "map_2042_preview",
 			"src": "maps/map_2042_preview.jpg"
 		},
@@ -1641,14 +1617,6 @@
 			"src": "maps/map_forest_preview.jpg"
 		},
 		{
-			"name": "map_cdr_2021_preview",
-			"src": "maps/map_cdr_2021_preview.jpg"
-		},
-		{
-			"name": "map_cdr_2021_winter_preview",
-			"src": "maps/map_cdr_2021_winter_preview.jpg"
-		},
-		{
 			"name": "map_fortknox_preview",
 			"src": "maps/map_fortknox_preview.jpg"
 		},
@@ -1710,11 +1678,11 @@
 		},
 		{
 			"name": "map_madness_dm_preview",
-			"src": "maps/map_madness_preview.jpg"
+			"src": "maps/map_madness_dm_preview.jpg"
 		},
 		{
 			"name": "map_madness_ctf_preview",
-			"src": "maps/map_madness_preview.jpg"
+			"src": "maps/map_madness_ctf_preview.jpg"
 		},
 		{
 			"name": "map_madness_space_preview",
@@ -1759,10 +1727,6 @@
 		{
 			"name": "map_parma_preview",
 			"src": "maps/map_parma_preview.jpg"
-		},
-		{
-			"name": "map_depo_preview",
-			"src": "maps/map_depo_preview.jpg"
 		},
 		{
 			"name": "map_pass_preview",
@@ -2167,10 +2131,6 @@
 		{
 			"name": "map_hill_winter_preview",
 			"src": "maps/map_hill_winter_preview.jpg"
-		},
-		{
-			"name": "map_madness_winter_preview",
-			"src": "maps/map_madness_winter_preview.jpg"
 		},
 		{
 			"name": "map_rift_winter_preview",
