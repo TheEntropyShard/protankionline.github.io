@@ -1500,6 +1500,10 @@
 			"name": "bonus_box_gold",
 			"src": "resources/bonus/boxes/crystal100/box.jpg?v=22"
 		},
+{
+			"name": "bonus_box_megagold",
+			"src": "resources/bonus/boxes/crystal1000/box.jpg?v=22"
+		},
 		{
 			"name": "bonus_box_crystall",
 			"src": "resources/bonus/boxes/crystal/box.jpg?v=2021"

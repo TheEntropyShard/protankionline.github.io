@@ -312,6 +312,10 @@
 			"name": "bonus_box_gold",
 			"src": "resources/bonus/box.3ds"
 		},
+{
+			"name": "bonus_box_megagold",
+			"src": "resources/bonus/box.3ds"
+		},
 		{
 			"name": "bonus_box_damage",
 			"src": "resources/bonus/box.3ds"
