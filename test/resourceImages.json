@@ -1625,8 +1625,8 @@
             "src": "resources/maps/map_fortknox_preview.jpg"
         },
         {
-            "name": "map_fortknox_3_preview",
-            "src": "resources/maps/map_fortknox_3_preview.jpg"
+            "name": "map_fortknox_III_preview",
+            "src": "resources/maps/map_fortknox_III_preview.jpg"
         },
         {
             "name": "map_garder_preview",
@@ -1821,12 +1821,12 @@
             "src": "resources/maps/map_zone_preview.jpg"
         },
         {
-            "name": "map_fortknox_2_preview",
-            "src": "resources/maps/map_fortknox_2_preview.jpg"
+            "name": "map_fortknox_II_preview",
+            "src": "resources/maps/map_fortknox_II_preview.jpg"
         },
         {
-            "name": "map_silence_2_preview",
-            "src": "resources/maps/map_silence_2_preview.jpg"
+            "name": "map_silence_II_preview",
+            "src": "resources/maps/map_silence_II_preview.jpg"
         },
         {
             "name": "map_silence_space_preview",
@@ -1949,8 +1949,8 @@
             "src": "resources/maps/map_fortknox_winter_preview.jpg"
         },
         {
-            "name": "map_fortknox_2_winter_preview",
-            "src": "resources/maps/map_fortknox_2_winter_preview.jpg"
+            "name": "map_fortknox_II_winter_preview",
+            "src": "resources/maps/map_fortknox_II_winter_preview.jpg"
         },
         {
             "name": "map_garder_winter_preview",
@@ -2129,8 +2129,8 @@
             "src": "resources/maps/map_esplanade_winter_preview.jpg"
         },
         {
-            "name": "map_fortknox_3_winter_preview",
-            "src": "resources/maps/map_fortknox_3_winter_preview.jpg"
+            "name": "map_fortknox_III_winter_preview",
+            "src": "resources/maps/map_fortknox_III_winter_preview.jpg"
         },
         {
             "name": "map_hill_winter_preview",
