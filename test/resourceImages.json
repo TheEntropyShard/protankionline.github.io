@@ -2875,6 +2875,10 @@
         {
             "name": "skybox_winter_06",
             "src": "resources/skyboxes/winter/06.jpg"
+        },
+        {
+            "name": "serf_m0_preview",
+            "src": "https://s.eu.tankionline.com/0/16723/61/225/27006222114252/image.webp"
         }
     ]
 }
