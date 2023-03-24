@@ -2888,13 +2888,13 @@
             "name": "serf_m3_preview",
             "src": "https://s.eu.tankionline.com/0/16723/247/233/27006221316500/image.webp"
         },
- {
+        {
             "name": "reporter_m0",
             "src": "resources/colormaps/reporter/image.jpg"
         },
         {
             "name": "reporter_m0_preview",
             "src": "resources/colormaps/reporter/preview.png"
-        },
+        }
     ]
 }
