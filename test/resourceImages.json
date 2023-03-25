@@ -2900,7 +2900,7 @@
             "name": "tester_m0",
             "src": "resources/colormaps/tester/image.jpg"
         },
-        { 
+        {
             "name": "tester_m0_preview",
             "src": "resources/colormaps/tester/preview.png"
         }
