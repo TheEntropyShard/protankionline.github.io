@@ -2234,11 +2234,11 @@
         },
         {
             "name": "smokyxt_m0_shot",
-            "src": "resources/turret/smoky/m3/shot.png"
+            "src": "resources/turret/smoky_xt/shot.png"
         },
         {
             "name": "smokyxt_m0_explosion",
-            "src": "resources/turret/smoky/m3/fire.png"
+            "src": "resources/turret/smoky_xt/fire.png"
         },
         {
             "name": "smoky_m0_explosion",
