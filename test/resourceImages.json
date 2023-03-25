@@ -611,7 +611,7 @@
         },
         {
             "name": "snowman_m3_lightmap",
-            "src": "resources/turret/snowman/m0/lighmap.jpg"
+            "src": "resources/turret/snowman/m0/lightmap.jpg"
         },
         {
             "name": "snowman_m3_preview",
