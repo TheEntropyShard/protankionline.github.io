@@ -210,6 +210,10 @@
             "src": "resources/hull/wasp/m3/hull.3ds"
         },
         {
+            "name": "waspny_m0",
+            "src": "resources/hull/wasp/m0/hull.3ds"
+        },
+        {
             "name": "hunter_m0",
             "src": "resources/hull/hunter/m0/hull.3ds"
         },

@@ -690,6 +690,18 @@
             "src": "resources/hull/wasp/m3/preview.png"
         },
         {
+            "name": "waspny_m0_lightmap",
+            "src": "resources/hull/wasp/m3/lightmap.jpg"
+        },
+        {
+            "name": "waspny_m0_details",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1089490540476768326/a04d00a131e42804.webp"
+        },
+        {
+            "name": "waspny_m0_preview",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1089491386228809728/13a3bab7bcebf42b.webp"
+        },
+        {
             "name": "hunter_m0_lightmap",
             "src": "resources/hull/hunter/m0/lightmap.jpg"
         },
