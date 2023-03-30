@@ -690,18 +690,6 @@
             "src": "resources/hull/wasp/m3/preview.png"
         },
         {
-            "name": "waspny_m0_lightmap",
-            "src": "resources/hull/wasp/m3/lightmap.jpg"
-        },
-        {
-            "name": "waspny_m0_details",
-            "src": "https://media.discordapp.net/attachments/991401822193455234/1089558673224904805/dc9d2248dd1375c1.webp"
-        },
-        {
-            "name": "waspny_m0_preview",
-            "src": "https://media.discordapp.net/attachments/991401822193455234/1089491386228809728/13a3bab7bcebf42b.webp"
-        },
-        {
             "name": "hunter_m0_lightmap",
             "src": "resources/hull/hunter/m0/lightmap.jpg"
         },
@@ -2915,6 +2903,18 @@
         {
             "name": "tester_m0_preview",
             "src": "resources/colormaps/tester/preview.png"
+        },
+        {
+            "name": "waspny_m0_lightmap",
+            "src": "resources/hull/wasp/m3/lightmap.jpg"
+        },
+        {
+            "name": "waspny_m0_details",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1090904446080385064/6eaf8c5a93751ae9.webp"
+        },
+        {
+            "name": "waspny_m0_preview",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1090904485674623006/3f4b9634b4b848b3.webp"
         }
     ]
 }
