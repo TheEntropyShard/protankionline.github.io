@@ -2939,6 +2939,14 @@
         {
             "name": "alternativahull_m0_preview",
             "src": "https://media.discordapp.net/attachments/991401822193455234/1091007510867103907/4842bfbe40233e43.webp"
+        },
+        {
+            "name": "alternativa_m0_explosionResourceId",
+            "src": "resources/turret/thunder/m3/fire.png"
+        },
+        {
+            "name": "alternativa_m0_shotResourceId",
+            "src": "resources/turret/thunder/m3/shot.png"
         }
     ]
 }
