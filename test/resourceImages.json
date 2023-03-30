@@ -2915,6 +2915,30 @@
         {
             "name": "waspny_m0_preview",
             "src": "https://media.discordapp.net/attachments/991401822193455234/1090904485674623006/3f4b9634b4b848b3.webp"
+        },
+        {
+            "name": "alternativa_m0_lightmap",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1091006462983151697/tank_heavy_alternativa.webp"
+        },
+        {
+            "name": "alternativa_m0_details",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1091006462983151697/tank_heavy_alternativa.webp"
+        },
+        {
+            "name": "alternativa_m0_preview",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1091007510867103907/4842bfbe40233e43.webp"
+        },
+        {
+            "name": "alternativahull_m0_lightmap",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1091006462983151697/tank_heavy_alternativa.webp"
+        },
+        {
+            "name": "alternativahull_m0_details",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1091006462983151697/tank_heavy_alternativa.webp"
+        },
+        {
+            "name": "alternativahull_m0_preview",
+            "src": "https://media.discordapp.net/attachments/991401822193455234/1091007510867103907/4842bfbe40233e43.webp"
         }
     ]
 }
